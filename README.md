@@ -4,8 +4,8 @@ Bu depo, GitHub'ı öğrenirken oluşturduğum ilk depo.
 
 ## Hakkımda
 
-- **Bölüm:** ...
-- **En çok merak ettiğim konu:** ...
+- **Bölüm:** Bilgisayar Mühendisliği
+- **En çok merak ettiğim konu:** Teknoloji
 
 ## Bu depoda neler var?
 
